@@ -27,6 +27,6 @@ while ($row = $result->fetch_row()) {
         }
     }
 }
-echo 'Done';
 
+echo "Success.";
 ?>
